@@ -10,9 +10,9 @@ This project focuses on developing a deep learning model for image analysis to d
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
+- [Predictions](#predictions)
 - [License](#license)
 
 ## Background
