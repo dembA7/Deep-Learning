@@ -1,0 +1,13 @@
+train: C:/Users/Artur/Desktop/TEC/7mo/TC3007C/Deep-Learning/dataset/train/
+val: C:/Users/Artur/Desktop/TEC/7mo/TC3007C/Deep-Learning/dataset/validation/
+test: C:/Users/Artur/Desktop/TEC/7mo/TC3007C/Deep-Learning/dataset/test/
+
+nc: 2
+names: ['no-vest', 'vest']
+
+roboflow:
+  workspace: roboflow-universe-projects
+  project: safety-vests
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-universe-projects/safety-vests/dataset/7
