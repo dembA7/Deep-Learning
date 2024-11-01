@@ -39,7 +39,7 @@ Safety vests are essential in various industries to enhance visibility and ensur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dembA7/Deep-Learning
+   git clone https://github.com/dembA7/Deep-Learning.git
    ```
 
 2. Navigate to the project directory:
