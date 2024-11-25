@@ -60,10 +60,10 @@ To run the model on a sample image, simply add your image to the dataset/detect/
 
 Check out some real predictions of the model down below!
 
-![image_0](./results/detected/image1.jpg)
-![image_0](./results/detected/image2.jpg)
-![image_0](./results/detected/image3.jpg)
-![image_0](./results/detected/image4.jpg)
+![image_0](./results/vanilla/detected/image1.jpg)
+![image_0](./results/vanilla/detected/image2.jpg)
+![image_0](./results/vanilla/detected/image3.jpg)
+![image_0](./results/vanilla/detected/image4.jpg)
 
 
 ## License 
